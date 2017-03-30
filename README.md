@@ -38,6 +38,6 @@ Waste:            <--  18.3 {{  31.2 {  38.3 [  41.1   50.1   58.3 ]  63.2 }  75
 
 
 ## Conclusions
-- As expected, adding more programmers reduces the likelihood that a project will overrun in time, substantially.
+- As expected, adding more programmers substantially reduces the likelihood that a project will overrun in time.
 - Applying multiple programmers to the same task will also limit project time overrun, at modest cost.
 - Decomposing user stories into stories of size 1, creates a situation where n programmers operate at a similar efficency to 1 programmer but with narrow delivery margins.
